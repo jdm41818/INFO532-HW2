@@ -3,7 +3,7 @@
 # library(reshape2)
 
 ## Tidy data
-
+#homnework 2 question 12.5 modification
 # Values in column names 
 
 raw <- read.csv("data/pew.csv", check.names = F)
